@@ -1,2 +1,2 @@
-# warm-weather-mares
-Mares are less likely to be fertilised in warm weather in NZ
+# Equibreed NZ
+Weather study: Mares are less likely to be fertilised in warm weather in NZ
